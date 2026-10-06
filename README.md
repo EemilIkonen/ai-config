@@ -1,4 +1,4 @@
-# agent-config
+# ai-config
 
 My config for AI coding agents (mainly Claude Code).
 
